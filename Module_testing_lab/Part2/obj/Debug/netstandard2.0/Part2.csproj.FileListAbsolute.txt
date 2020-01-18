@@ -1,0 +1,9 @@
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\bin\Debug\netstandard2.0\Part2.deps.json
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\bin\Debug\netstandard2.0\Part2.dll
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\bin\Debug\netstandard2.0\Part2.pdb
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\obj\Debug\netstandard2.0\Part2.csprojAssemblyReference.cache
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\obj\Debug\netstandard2.0\Part2.csproj.CoreCompileInputs.cache
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\obj\Debug\netstandard2.0\Part2.AssemblyInfoInputs.cache
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\obj\Debug\netstandard2.0\Part2.AssemblyInfo.cs
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\obj\Debug\netstandard2.0\Part2.dll
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Part2\obj\Debug\netstandard2.0\Part2.pdb

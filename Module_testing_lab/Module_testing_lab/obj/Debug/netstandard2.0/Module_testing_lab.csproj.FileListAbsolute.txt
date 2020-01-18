@@ -1,0 +1,9 @@
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\bin\Debug\netstandard2.0\Module_testing_lab.deps.json
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\bin\Debug\netstandard2.0\Module_testing_lab.dll
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\bin\Debug\netstandard2.0\Module_testing_lab.pdb
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\obj\Debug\netstandard2.0\Module_testing_lab.csprojAssemblyReference.cache
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\obj\Debug\netstandard2.0\Module_testing_lab.csproj.CoreCompileInputs.cache
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\obj\Debug\netstandard2.0\Module_testing_lab.AssemblyInfoInputs.cache
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\obj\Debug\netstandard2.0\Module_testing_lab.AssemblyInfo.cs
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\obj\Debug\netstandard2.0\Module_testing_lab.dll
+C:\Users\XTreme.ws\source\repos\Module_testing_lab\Module_testing_lab\obj\Debug\netstandard2.0\Module_testing_lab.pdb
